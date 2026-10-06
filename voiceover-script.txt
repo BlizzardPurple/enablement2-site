@@ -1,0 +1,19 @@
+This is the current N1 Ads campaign setup — sped up two and a half times.
+
+The operator begins with campaign details. Advertiser, brand, flight dates, reporting preferences — all entered manually into the form.
+
+Then comes digital details. Select a site, define the number of placements, and start configuring each one. Friendly name, creative name, creative ID, placement type, notes. One placement at a time.
+
+If a single placement is mistyped, there's no easy way to catch it until review. And with a hundred placements, that review itself takes time.
+
+This entire process takes about two hours. For one campaign.
+
+Now watch Enablement two point oh.
+
+The operator uploads a media plan — a single CSV or Excel file. That is the only manual step.
+
+The file goes to the MCP server. An AI model reads it and extracts every placement detail — sites, site descriptions, friendly names, creative names, creative IDs, placement types, flight dates — all in about thirty seconds.
+
+Everything lands in a pre-filled table. The operator scans through, makes a quick correction if needed, and saves.
+
+Same campaign. Same hundred placements. Done in under two minutes instead of two hours.

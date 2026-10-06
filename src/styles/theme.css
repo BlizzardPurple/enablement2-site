@@ -1,0 +1,41 @@
+/* ============================================================
+   Nielsen Global Media — Enablement 2.0 Demo Site
+   Brand colors sourced from Nielsen 2021 rebrand identity.
+   ============================================================ */
+
+:root {
+  /* ── Nielsen brand palette ── */
+  --n-navy:      #00234a;
+  --n-navy-light:#0a3a6b;
+  --n-turquoise: #39c4c3;
+  --n-purple:    #782eff;
+  --n-pink:      #f40953;
+  --n-orange:    #ff9408;
+
+  /* ── Derived UI tokens ── */
+  --bg-primary:    #ffffff;
+  --bg-secondary:  #f7f9fc;
+  --bg-code:       #f0f3f8;
+  --text-primary:  #1a1a2e;
+  --text-secondary:#4a5568;
+  --text-muted:    #718096;
+  --border:        #e2e8f0;
+
+  /* ── Spacing & layout ── */
+  --page-max-width: 1140px;
+  --page-padding:   clamp(1.5rem, 5vw, 6rem);
+  --section-gap:    2.5rem;
+
+  /* ── Typography ── */
+  --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: 'Fira Code', 'Cascadia Code', 'JetBrains Mono', monospace;
+
+  /* ── Misc ── */
+  --radius-sm:  6px;
+  --radius-md:  12px;
+  --radius-lg:  20px;
+  --shadow-sm:  0 1px 3px rgba(0, 35, 74, .06);
+  --shadow-md:  0 4px 16px rgba(0, 35, 74, .08);
+  --shadow-lg:  0 8px 32px rgba(0, 35, 74, .10);
+  --transition: 0.25s cubic-bezier(.4,0,.2,1);
+}
